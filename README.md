@@ -1,6 +1,6 @@
 ##
 
-docker + nginx + php + mysql のテンプレート
+docker + nginx 1.19 + php 8 + mysql 8 のテンプレート
 
 ## 環境
 
